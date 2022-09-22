@@ -6,7 +6,7 @@ const Nav=()=>{
         <div className="Nav">
             <span role='img' aria-label="Description of the overall image">🌟Emoji 🤷‍♂️ </span>
            
-            <a href="/" target="_blank"> GitHub</a>
+            <a href="https://github.com/Ermaurya/search-emoji" target="_blank"> GitHub</a>
            
         </div>
     )
